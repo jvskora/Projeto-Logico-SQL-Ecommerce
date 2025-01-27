@@ -159,6 +159,7 @@ Mantém um registro das ações realizadas pelos clientes.
    ```
 2. Execute os comandos SQL para criar as tabelas (veja os detalhes acima).
 3. Insira dados iniciais conforme necessário para testar o sistema.
+4. Teste as queries, views, procedures e triggers de exemplo
 
 ## Tecnologias Utilizadas
 
@@ -174,7 +175,5 @@ Mantém um registro das ações realizadas pelos clientes.
 - Solicitações de devoluções e acompanhamento de status.
 - Registro de logs de ações realizadas pelos clientes.
 
-## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue.
 
